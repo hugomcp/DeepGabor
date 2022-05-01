@@ -12,6 +12,4 @@ The experiments were conducted in two well known datasets (CASIA-Iris-Lamp and C
 
 ################################################################################################################################################
 
-- "*.m": MATLAB files for compoaring the obtained results to the baseline
-
 - "scr_create_cvlassifier_piecewise.py": PYTHON code to create the DeepGabor encoding network
