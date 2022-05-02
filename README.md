@@ -18,4 +18,4 @@ The experiments were conducted in two well known datasets (CASIA-Iris-Lamp and C
 
 - The auxiliary data required for learning the DeepGabor encoder are available at: http://di.ubi.pt/~hugomcp/DeepGabor.tar
 
-- "scr_correct.py": PUTHON script to test a previously learned DeepGabor model
+- "scr_correct.py": PYTHON script to test a previously learned DeepGabor encoder. 
