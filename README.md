@@ -14,4 +14,6 @@ The experiments were conducted in two well known datasets (CASIA-Iris-Lamp and C
 
 - "scr_create_cvlassifier_piecewise.py": PYTHON code to create the DeepGabor encoding network
 
+- "configs.txt": Configuration file (with corresponding parameterizations), for running the DeepGabor encoding network
+
 - The auxiliary data required for learning the DeepGabor encoder are available at: http://di.ubi.pt/~hugomcp/DeepGabor.tar
