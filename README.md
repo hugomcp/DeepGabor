@@ -1,6 +1,6 @@
-#############################################################################################################
+#######################################################################################################
 # DeepGabor
-#############################################################################################################
+#######################################################################################################
 
 Source code for reproducing the experiments described in "DeepGabor: A Learning-Based Framework to Augment IrisCodes Permanence" 
 
@@ -10,7 +10,7 @@ This paper proposes a solution to this problem, describing a customised Deep Lea
 
 The experiments were conducted in two well known datasets (CASIA-Iris-Lamp and CASIA-Iris-Thousand) and showed a notorious decrease of the mean/standard deviation values of the genuines distribution, at expenses of only marginal deteriorations in the impostors scores. The resulting decision environments consistently reduce the levels of false rejections with respect to the baseline for most operating levels (e.g., over 50% at 1e−3 FAR values).
 
-############################################################################################################
+######################################################################################################
 
 - "scr_create_cvlassifier_piecewise.py": PYTHON code for creating (learning) the DeepGabor encoding network
 
